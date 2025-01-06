@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ramadhan930
-- 👀 I’m interested in html css javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Junior Programmer | Passionate About Coding and Problem-Solving
+🌟 Skilled in Python, JavaScript, and Web Development
+🚀 Learning every day, building projects, and exploring tech trends
+📚 Open to collaborations, feedback, and new opportunities
+🌐 Portfolio: [YourWebsite.com] | 💌 Contact: [ramadhangr00@gmail.com]
 
 <!---
 Ramadhan930/Ramadhan930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
