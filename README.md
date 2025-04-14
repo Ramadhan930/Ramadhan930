@@ -1,7 +1,7 @@
 ###  
 # 🌃 NightNightRaid ⛩️
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/39/7e/f3/397ef3b50d7e3e6c289e53b0c95a0b0b.gif"/>
+  <img src="https://i.pinimg.com/originals/39/7e/f3/397ef3b50d7e3e6c289e53b0c95a0b0b.gif"/>
 </div>
 
 # 💫 About Me:
