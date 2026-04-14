@@ -27,14 +27,6 @@ I am an **Informatics Student** at Universitas Negeri Padang, specializing in **
 
 ---
 
-## 📈 Activity & Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhan930&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhan930&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Get In Touch
 <div align="left">
 <a href="https://linkedin.com/in/m_Mr" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
