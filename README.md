@@ -5,25 +5,35 @@
 </div>
 
 ## 🚀 Professional Profile
-I am an **Informatics Student** at Universitas Negeri Padang, specializing in **Backend Engineering**. I am currently dedicated to mastering the bridge between scalable server-side architectures and **Artificial Intelligence integration**.
+Saya adalah mahasiswa **Informatics** di Universitas Negeri Padang yang berfokus pada **Backend Engineering**. Saat ini, saya sedang mendalami integrasi antara arsitektur server-side yang skalabel dengan **Artificial Intelligence**.
 
-- 🛠️ **Core Expertise:** Backend Development (Node.js & Express Ecosystem).
-- 🧠 **Current Focus:** Deepening my understanding of Machine Learning workflows and MLOps.
-- 🎯 **Vision:** To become a Senior AI Engineer, building intelligent remote-first solutions.
+- 🛠️ **Core Expertise:** Backend Development (Node.js & Python Ecosystem).
+- 🧠 **Current Focus:** Deepening my understanding of Machine Learning workflows, MLOps, and API Security.
+- 🎯 **Vision:** Menjadi Senior AI Engineer yang membangun solusi cerdas berbasis remote-first.
 - 📍 **Based in:** Batam, Indonesia.
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-### 🔙 Backend & Infrastructure (Core Skills)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🔙 Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Hapi.js](https://img.shields.io/badge/Hapi.js-ff512f?style=for-the-badge&logo=hapi.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🤖 Intelligence & Data (Aspiring)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 Intelligence & Data (Aspiring AI Engineer)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🎨 Frontend & UI/UX
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
