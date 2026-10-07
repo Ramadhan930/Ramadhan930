@@ -52,14 +52,33 @@ I believe that good backend engineering is not just about code that runs — it 
 
 ## Projects
 
-### Go WAF Rate Limiter (In Progress)
-Building a lightweight Web Application Firewall in Go that includes:
-- IP-based rate limiting with automatic reset
-- SQL Injection detection
-- Automatic IP blacklisting
-- Request logging to file and database
+### Go WAF Rate Limiter
+A lightweight Web Application Firewall built with Go, featuring IP-based rate limiting, SQL Injection detection, and automatic IP blacklisting.
 
-**Tech Stack:** Go, Redis, PostgreSQL, Docker
+**Features:**
+- IP-based rate limiting with automatic time-based reset
+- SQL Injection pattern detection
+- Automatic IP blacklisting for detected attacks
+- Request logging to file
+- Modular package architecture (handler, detector, logger, model)
+
+**Tech Stack:** Go, net/http, file-based logging
+
+[View Repository](https://github.com/Ramadhan930/rate-limiter-mini)
+
+---
+
+### REST API with Layered Architecture (In Progress)
+A RESTful API for film data management, built with clean architecture principles (Handler → Service → Repository).
+
+**Features (Planned):**
+- Full CRUD operations for film data
+- PostgreSQL database with GORM
+- Dockerized environment
+- Configuration via environment variables
+- Structured error handling
+
+**Tech Stack:** Go, Gin, GORM, PostgreSQL, Docker
 
 *(Repository link will be added upon completion)*
 
