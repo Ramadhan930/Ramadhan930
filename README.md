@@ -80,7 +80,7 @@ A RESTful API for film data management, built with clean architecture principles
 
 **Tech Stack:** Go, Gin, GORM, PostgreSQL, Docker
 
-*(Repository link will be added upon completion)*
+[View repository](https://github.com/Ramadhan930/rest-api-go)
 
 ---
 
